@@ -1,8 +1,8 @@
 # scala-akka-graph-examples
 Akka Graph examples by using scala
 
-- [ ] Create Repository
-- [ ] Add IntelliJ project
+- [x] Create Repository
+- [ ] Add SBT project
 - [ ] Hello World Scala
 - [ ] Create a sample Graph with numbers and array
 - [ ] Add CI for unit test
