@@ -2,8 +2,8 @@
 Akka Graph examples by using scala
 
 - [x] Create Repository
-- [ ] Add SBT project
-- [ ] Hello World Scala
+- [x] Add SBT project
+- [x] Hello World Scala
 - [ ] Create a sample Graph with numbers and array
 - [ ] Add CI for unit test
 - [ ] Create a Text processer for spelling check

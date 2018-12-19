@@ -1,2 +1,3 @@
 .idea/
-scala-akka-graph-examples.iml
+project/
+target/
