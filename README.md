@@ -5,6 +5,7 @@ Akka Graph examples by using scala
 - [x] Add SBT project
 - [x] Hello World Scala
 - [x] Added simple code and it's test case
+- [x] Added simple graph
 - [ ] Create a sample Graph with numbers and array
 - [ ] Add CI for unit test
 - [ ] Create a Text processer for spelling check
